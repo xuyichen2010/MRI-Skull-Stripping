@@ -1,0 +1,1 @@
+Slicer  --no-main-window --python-script autoSwissSkullStripper.py

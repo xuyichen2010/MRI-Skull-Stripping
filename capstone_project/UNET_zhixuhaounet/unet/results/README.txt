@@ -1,0 +1,1 @@
+The 'results' folder is used to store resultant files

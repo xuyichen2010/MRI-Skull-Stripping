@@ -1,0 +1,1 @@
+This folder is used to store all mask/label testing images split from mask volume data.

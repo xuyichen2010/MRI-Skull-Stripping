@@ -1,0 +1,1 @@
+This folder is used to store images with truth masks.

@@ -1,0 +1,1 @@
+The 'raw' folder is used to store volume tif files for raw MRI data objects

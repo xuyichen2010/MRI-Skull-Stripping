@@ -1,0 +1,1 @@
+This folder is used to store all raw training images split from raw volume data.
